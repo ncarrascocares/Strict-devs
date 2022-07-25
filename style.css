@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+/*el punto es clase
+  el gato es id  */
+
+.primera-seccion {
+    background-color: #f8f6f9;
+}
+
+.primera-seccion .contenedor-img {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 30px 0;
+}
+
+.primera-seccion .contenedor-img img {
+    display: block;
+}
+
+.cabecera {
+    background: url("assets/img/bg-header.jpg");
+    height: 500px;
+}
